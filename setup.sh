@@ -6,6 +6,9 @@ curl https://install.meteor.com | /bin/sh
 # Install meteorite
 sudo -H npm install -g meteorite
 
+# Install node modules
+npm install
+
 # Change to the meteor project waartaa directory
 cd waartaa
 
